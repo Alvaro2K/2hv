@@ -1,0 +1,5 @@
+CLASS zbp_i_booking_alvaro DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zi_booking_alvaro.
+ENDCLASS.
+
+CLASS zbp_i_booking_alvaro IMPLEMENTATION.
+ENDCLASS.
